@@ -2,6 +2,7 @@ import webbrowser
 import time
 """
 Script to all of the URLs
+URLs will be read from a file and opened using the webbrowser module
 Author: Vincent Perez
 Date: July 7th 2024
 """
