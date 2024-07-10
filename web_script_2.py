@@ -1,9 +1,9 @@
 import webbrowser
 import time
 """
-Script to be used alongside web_script_1.py
-Opens all of the URLs
+Script to all of the URLs
 Author: Vincent Perez
+Date: July 7th 2024
 """
 # Open URL file for reading
 url_file = open("urls.txt", "r")
