@@ -5,7 +5,7 @@ This is an early version of a program to automate the process of link checking.
 ## Notes
 
 This script requires  
-Python requests module
+Python requests module  
 Python Beautiful Soup library
 
 A few different things happen when the command is run.
