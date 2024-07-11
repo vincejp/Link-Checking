@@ -14,16 +14,14 @@ python3 web_script_1.py
 will run the first script, which prints out all of the URLs.
 Next,
 
-```
-bash
+```bash
 grep "viewcontent\|author\|doi" > urls.txt
 ```
 
 will filter out the output from the previous script, and write all of the links
 containing content, author links, and DOI links to a file called
 
-```
-bash
+```bash
 urls.txt
 ```
 
