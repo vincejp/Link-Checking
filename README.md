@@ -44,7 +44,7 @@ This link comes from Collaborative Librarianship Volume 13, Issue 2
 
 https://digitalcommons.du.edu/collaborativelibrarianship/vol13/iss2/1
 
-On a successful run of the program, the following links will be opened:  
+On a successful run of the program, the following links will be opened in addition to the above link:  
 https://digitalcommons.du.edu/do/search/?q=bp_author_id%3A%223fc779a5-783f-494a-acf7-94beabf6cec0%22%20OR%20%28author%3A%22Chris%20Robinson-Nkongola%22%20AND%20-bp_author_id%3A%5B%2A%20TO%20%2A%5D%29&start=0&context=7293930  
 https://digitalcommons.du.edu/do/search/?q=bp_author_id%3A%228662aaeb-0c14-4c74-8511-857664523534%22%20OR%20%28author%3A%22Carrie%20L.%20Forbes%22%20AND%20-bp_author_id%3A%5B%2A%20TO%20%2A%5D%29&start=0&context=7293930  
 https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1525&context=collaborativelibrarianship  
