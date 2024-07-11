@@ -3,7 +3,7 @@ import webbrowser
 from bs4 import BeautifulSoup
 
 """
-A script to fetch all links from a webpage
+A script to fetch and print out all links from a webpage
 Author: Vincent Perez
 Date: July 7th 2024
 The code in this file is adapted from Geeks For Geeks

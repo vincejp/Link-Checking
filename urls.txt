@@ -1,8 +1,0 @@
-https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1444&context=collaborativelibrarianship
-https://digitalcommons.du.edu/do/search/?q=bp_author_id%3A%2214ddb352-98bc-4be8-8876-792675af561d%22%20OR%20%28author%3A%22Katy%20DiVittorio%22%20AND%20-bp_author_id%3A%5B%2A%20TO%20%2A%5D%29&start=0&context=7293930
-https://digitalcommons.du.edu/do/search/?q=bp_author_id%3A%2234705fe3-b9d7-4ed1-ba5e-85ae3bce2d60%22%20OR%20%28author%3A%22Philip%20Gaddis%22%20AND%20-bp_author_id%3A%5B%2A%20TO%20%2A%5D%29&start=0&context=7293930
-https://digitalcommons.du.edu/do/search/?q=bp_author_id%3A%22f5f03efb-23f3-49a4-bf66-3e93f0fa1b41%22%20OR%20%28author%3A%22Sommer%20Browning%22%20AND%20-bp_author_id%3A%5B%2A%20TO%20%2A%5D%29&start=0&context=7293930
-https://digitalcommons.du.edu/do/search/?q=bp_author_id%3A%224c2e746a-c5e1-4ae2-8035-9993e9a50431%22%20OR%20%28author%3A%22Molly%20Rainard%22%20AND%20-bp_author_id%3A%5B%2A%20TO%20%2A%5D%29&start=0&context=7293930
-https://digitalcommons.du.edu/do/search/?q=bp_author_id%3A%22cb2ff330-052c-4a4a-a639-67f50fa720d4%22%20OR%20%28author%3A%22Charissa%20Brammer%22%20AND%20-bp_author_id%3A%5B%2A%20TO%20%2A%5D%29&start=0&context=7293930
-https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=1444&context=collaborativelibrarianship
-https://digitalcommons.du.edu/collaborativelibrarianship/author_guidelines_updated.pdf
